@@ -6,9 +6,9 @@
   <license>TODO</license>
   <author email="ubuntu@todo.todo">ubuntu</author>
   <maintainer email="ubuntu@todo.todo">ubuntu</maintainer>
-  <url type="bugtracker">https://github.com/ROBOTIS-GIT/ros_tutorials/issues</url>
-  <url type="repository">https://github.com/ROBOTIS-GIT/ros_tutorials.git</url>
-  <url type="website">http://www.robotis.com</url>
+<!--  <url type="bugtracker">https://github.com/ROBOTIS-GIT/ros_tutorials/issues</url>-->
+<!--  <url type="repository">https://github.com/ROBOTIS-GIT/ros_tutorials.git</url>-->
+<!--  <url type="website">http://www.robotis.com</url>-->
   <buildtool_depend>catkin</buildtool_depend>
   <build_depend>message_generation</build_depend>
   <build_depend>roscpp</build_depend>
